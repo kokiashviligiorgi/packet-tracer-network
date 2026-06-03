@@ -7,3 +7,10 @@ On R4, a Loopback0 interface was created with IP 8.8.8.8/32 and hostname/comment
 DHCP was configured on R2 and R3 for automatic IP assignment to clients.
 R4 configuration was backed up to a TFTP server.
 All interfaces were properly configured and tested for connectivity.
+## 🧠 Key Skills Demonstrated
+- RIP dynamic routing configuration
+- Default route implementation and redistribution
+- DHCP server configuration
+- TFTP backup and device management
+- Loopback interface configuration
+- Basic network troubleshooting
